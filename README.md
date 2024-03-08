@@ -31,7 +31,7 @@ This is a simple React-based landing page template that anyone can use as a star
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/chayansurana3/Landing-Page-Template.git)
-- Live Site URL: [Employee Analytics - Live Site](https://org-analytics.netlify.app)
+- Live Site URL: [Live Site](https://chayansurana3.github.io/Landing-Page-Template)
 
 ### Built With
 
