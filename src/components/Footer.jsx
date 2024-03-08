@@ -7,8 +7,8 @@ export default function Footer() {
         <footer className="bg-gray-800 text-white py-8">
             <div className="container mx-auto flex flex-col lg:flex-row justify-between items-center">
                 <div className="font-semibold p-4 text-center lg:text-left">
-                    <h2 className="text-white font-cursive text-5xl mb-8 p-4">Galaxy</h2>
-                    <p className="text-gray-400 text-lg">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <Link className="hover:text-blue-400 text-white font-cursive text-5xl p-4" to="/">Galaxy</Link>
+                    <p className="text-gray-400 text-lg mt-8">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                 </div>
                 <div className="p-4">
                     <ul className="flex lg:flex-col">
